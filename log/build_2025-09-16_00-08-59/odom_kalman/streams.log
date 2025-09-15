@@ -1,0 +1,27 @@
+[0.592s] Invoking command in '/home/kits/task1_ws/src/odom_kalman': PYTHONPATH=/home/kits/task1_ws/build/odom_kalman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odom_kalman build --build-base /home/kits/task1_ws/build/odom_kalman/build install --record /home/kits/task1_ws/build/odom_kalman/install.log --single-version-externally-managed install_data
+[0.731s] running egg_info
+[0.731s] writing ../../build/odom_kalman/odom_kalman.egg-info/PKG-INFO
+[0.731s] writing dependency_links to ../../build/odom_kalman/odom_kalman.egg-info/dependency_links.txt
+[0.731s] writing entry points to ../../build/odom_kalman/odom_kalman.egg-info/entry_points.txt
+[0.731s] writing requirements to ../../build/odom_kalman/odom_kalman.egg-info/requires.txt
+[0.731s] writing top-level names to ../../build/odom_kalman/odom_kalman.egg-info/top_level.txt
+[0.733s] reading manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+[0.734s] writing manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+[0.734s] running build
+[0.734s] running build_py
+[0.734s] copying odom_kalman/test_odometry.py -> /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman
+[0.734s] copying odom_kalman/kalman_node.py -> /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman
+[0.734s] running install
+[0.734s] running install_lib
+[0.735s] copying /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman/test_odometry.py -> /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman
+[0.735s] copying /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman/kalman_node.py -> /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman
+[0.735s] byte-compiling /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman/test_odometry.py to test_odometry.cpython-310.pyc
+[0.736s] byte-compiling /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman/kalman_node.py to kalman_node.cpython-310.pyc
+[0.737s] running install_data
+[0.737s] running install_egg_info
+[0.738s] removing '/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info' (and everything under it)
+[0.738s] Copying ../../build/odom_kalman/odom_kalman.egg-info to /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info
+[0.739s] running install_scripts
+[0.751s] Installing kalman_node script to /home/kits/task1_ws/install/odom_kalman/lib/odom_kalman
+[0.751s] writing list of installed files to '/home/kits/task1_ws/build/odom_kalman/install.log'
+[0.769s] Invoked command in '/home/kits/task1_ws/src/odom_kalman' returned '0': PYTHONPATH=/home/kits/task1_ws/build/odom_kalman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odom_kalman build --build-base /home/kits/task1_ws/build/odom_kalman/build install --record /home/kits/task1_ws/build/odom_kalman/install.log --single-version-externally-managed install_data

@@ -1,0 +1,25 @@
+running egg_info
+writing ../../build/odom_kalman/odom_kalman.egg-info/PKG-INFO
+writing dependency_links to ../../build/odom_kalman/odom_kalman.egg-info/dependency_links.txt
+writing entry points to ../../build/odom_kalman/odom_kalman.egg-info/entry_points.txt
+writing requirements to ../../build/odom_kalman/odom_kalman.egg-info/requires.txt
+writing top-level names to ../../build/odom_kalman/odom_kalman.egg-info/top_level.txt
+reading manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+writing manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+running build
+running build_py
+copying odom_kalman/test_odometry.py -> /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman
+copying odom_kalman/kalman_node.py -> /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman
+running install
+running install_lib
+copying /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman/test_odometry.py -> /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman
+copying /home/kits/task1_ws/build/odom_kalman/build/lib/odom_kalman/kalman_node.py -> /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman
+byte-compiling /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman/test_odometry.py to test_odometry.cpython-310.pyc
+byte-compiling /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman/kalman_node.py to kalman_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/odom_kalman/odom_kalman.egg-info to /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info
+running install_scripts
+Installing kalman_node script to /home/kits/task1_ws/install/odom_kalman/lib/odom_kalman
+writing list of installed files to '/home/kits/task1_ws/build/odom_kalman/install.log'

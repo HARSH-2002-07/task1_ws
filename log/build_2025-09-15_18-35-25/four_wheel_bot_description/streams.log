@@ -1,0 +1,20 @@
+[0.513s] Invoking command in '/home/kits/task1_ws/src/four_wheel_bot_description': PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_description build --build-base /home/kits/task1_ws/build/four_wheel_bot_description/build install --record /home/kits/task1_ws/build/four_wheel_bot_description/install.log --single-version-externally-managed install_data
+[0.653s] running egg_info
+[0.653s] writing ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/PKG-INFO
+[0.654s] writing dependency_links to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/dependency_links.txt
+[0.654s] writing entry points to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/entry_points.txt
+[0.654s] writing requirements to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/requires.txt
+[0.654s] writing top-level names to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/top_level.txt
+[0.655s] reading manifest file '../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/SOURCES.txt'
+[0.655s] writing manifest file '../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/SOURCES.txt'
+[0.655s] running build
+[0.655s] running build_py
+[0.655s] running install
+[0.655s] running install_lib
+[0.656s] running install_data
+[0.656s] running install_egg_info
+[0.657s] removing '/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.657s] Copying ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info to /home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description-0.0.0-py3.10.egg-info
+[0.657s] running install_scripts
+[0.670s] writing list of installed files to '/home/kits/task1_ws/build/four_wheel_bot_description/install.log'
+[0.686s] Invoked command in '/home/kits/task1_ws/src/four_wheel_bot_description' returned '0': PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_description build --build-base /home/kits/task1_ws/build/four_wheel_bot_description/build install --record /home/kits/task1_ws/build/four_wheel_bot_description/install.log --single-version-externally-managed install_data

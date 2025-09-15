@@ -1,0 +1,6 @@
+source;share/four_wheel_bot_gazebo/hook/pythonpath.ps1
+source;share/four_wheel_bot_gazebo/hook/pythonpath.dsv
+source;share/four_wheel_bot_gazebo/hook/pythonpath.sh
+source;share/four_wheel_bot_gazebo/hook/ament_prefix_path.ps1
+source;share/four_wheel_bot_gazebo/hook/ament_prefix_path.dsv
+source;share/four_wheel_bot_gazebo/hook/ament_prefix_path.sh

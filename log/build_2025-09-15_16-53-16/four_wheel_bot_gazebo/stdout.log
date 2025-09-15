@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/PKG-INFO
+writing dependency_links to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/dependency_links.txt
+writing entry points to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/entry_points.txt
+writing requirements to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/requires.txt
+writing top-level names to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/top_level.txt
+reading manifest file '../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/SOURCES.txt'
+writing manifest file '../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+creating /home/kits/task1_ws/install/four_wheel_bot_gazebo/share/four_wheel_bot_gazebo/launch
+copying launch/bringup.launch.py -> /home/kits/task1_ws/install/four_wheel_bot_gazebo/share/four_wheel_bot_gazebo/launch
+creating /home/kits/task1_ws/install/four_wheel_bot_gazebo/share/four_wheel_bot_gazebo/worlds
+copying worlds/empty.world -> /home/kits/task1_ws/install/four_wheel_bot_gazebo/share/four_wheel_bot_gazebo/worlds
+running install_egg_info
+removing '/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages/four_wheel_bot_gazebo-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info to /home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages/four_wheel_bot_gazebo-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/kits/task1_ws/build/four_wheel_bot_gazebo/install.log'

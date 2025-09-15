@@ -1,0 +1,20 @@
+[0.376s] Invoking command in '/home/kits/task1_ws/src/four_wheel_bot_gazebo': AMENT_PREFIX_PATH=/home/kits/task1_ws/install/four_wheel_bot_description:/home/kits/task1_ws/install/odom_kalman:/home/kits/task1_ws/install/four_wheel_bot_gazebo:/home/kits/ros2_ws/install/dynamic_obstacle_avoidance:/opt/ros/humble PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages:/home/kits/ros2_ws/install/dynamic_obstacle_avoidance/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_gazebo build --build-base /home/kits/task1_ws/build/four_wheel_bot_gazebo/build install --record /home/kits/task1_ws/build/four_wheel_bot_gazebo/install.log --single-version-externally-managed install_data
+[0.518s] running egg_info
+[0.518s] writing ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/PKG-INFO
+[0.519s] writing dependency_links to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/dependency_links.txt
+[0.519s] writing entry points to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/entry_points.txt
+[0.519s] writing requirements to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/requires.txt
+[0.519s] writing top-level names to ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/top_level.txt
+[0.520s] reading manifest file '../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/SOURCES.txt'
+[0.520s] writing manifest file '../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info/SOURCES.txt'
+[0.520s] running build
+[0.520s] running build_py
+[0.520s] running install
+[0.520s] running install_lib
+[0.521s] running install_data
+[0.521s] running install_egg_info
+[0.522s] removing '/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages/four_wheel_bot_gazebo-0.0.0-py3.10.egg-info' (and everything under it)
+[0.522s] Copying ../../build/four_wheel_bot_gazebo/four_wheel_bot_gazebo.egg-info to /home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages/four_wheel_bot_gazebo-0.0.0-py3.10.egg-info
+[0.523s] running install_scripts
+[0.535s] writing list of installed files to '/home/kits/task1_ws/build/four_wheel_bot_gazebo/install.log'
+[0.549s] Invoked command in '/home/kits/task1_ws/src/four_wheel_bot_gazebo' returned '0': AMENT_PREFIX_PATH=/home/kits/task1_ws/install/four_wheel_bot_description:/home/kits/task1_ws/install/odom_kalman:/home/kits/task1_ws/install/four_wheel_bot_gazebo:/home/kits/ros2_ws/install/dynamic_obstacle_avoidance:/opt/ros/humble PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:/home/kits/task1_ws/install/four_wheel_bot_gazebo/lib/python3.10/site-packages:/home/kits/ros2_ws/install/dynamic_obstacle_avoidance/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_gazebo build --build-base /home/kits/task1_ws/build/four_wheel_bot_gazebo/build install --record /home/kits/task1_ws/build/four_wheel_bot_gazebo/install.log --single-version-externally-managed install_data

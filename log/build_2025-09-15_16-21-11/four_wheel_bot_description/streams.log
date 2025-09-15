@@ -1,0 +1,33 @@
+[0.597s] Invoking command in '/home/kits/task1_ws/src/four_wheel_bot_description': PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_description build --build-base /home/kits/task1_ws/build/four_wheel_bot_description/build install --record /home/kits/task1_ws/build/four_wheel_bot_description/install.log --single-version-externally-managed install_data
+[0.732s] running egg_info
+[0.732s] creating ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info
+[0.732s] writing ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/PKG-INFO
+[0.732s] writing dependency_links to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/dependency_links.txt
+[0.732s] writing entry points to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/entry_points.txt
+[0.732s] writing requirements to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/requires.txt
+[0.732s] writing top-level names to ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/top_level.txt
+[0.733s] writing manifest file '../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/SOURCES.txt'
+[0.733s] reading manifest file '../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/SOURCES.txt'
+[0.735s] writing manifest file '../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info/SOURCES.txt'
+[0.735s] running build
+[0.735s] running build_py
+[0.735s] creating /home/kits/task1_ws/build/four_wheel_bot_description/build
+[0.735s] creating /home/kits/task1_ws/build/four_wheel_bot_description/build/lib
+[0.735s] creating /home/kits/task1_ws/build/four_wheel_bot_description/build/lib/four_wheel_bot_description
+[0.735s] copying four_wheel_bot_description/__init__.py -> /home/kits/task1_ws/build/four_wheel_bot_description/build/lib/four_wheel_bot_description
+[0.735s] running install
+[0.735s] running install_lib
+[0.735s] creating /home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description
+[0.735s] copying /home/kits/task1_ws/build/four_wheel_bot_description/build/lib/four_wheel_bot_description/__init__.py -> /home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description
+[0.736s] byte-compiling /home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description/__init__.py to __init__.cpython-310.pyc
+[0.736s] running install_data
+[0.736s] creating /home/kits/task1_ws/install/four_wheel_bot_description/share/ament_index
+[0.736s] creating /home/kits/task1_ws/install/four_wheel_bot_description/share/ament_index/resource_index
+[0.736s] creating /home/kits/task1_ws/install/four_wheel_bot_description/share/ament_index/resource_index/packages
+[0.736s] copying resource/four_wheel_bot_description -> /home/kits/task1_ws/install/four_wheel_bot_description/share/ament_index/resource_index/packages
+[0.736s] copying package.xml -> /home/kits/task1_ws/install/four_wheel_bot_description/share/four_wheel_bot_description
+[0.736s] running install_egg_info
+[0.737s] Copying ../../build/four_wheel_bot_description/four_wheel_bot_description.egg-info to /home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages/four_wheel_bot_description-0.0.0-py3.10.egg-info
+[0.737s] running install_scripts
+[0.750s] writing list of installed files to '/home/kits/task1_ws/build/four_wheel_bot_description/install.log'
+[0.766s] Invoked command in '/home/kits/task1_ws/src/four_wheel_bot_description' returned '0': PYTHONPATH=/home/kits/task1_ws/build/four_wheel_bot_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/four_wheel_bot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/four_wheel_bot_description build --build-base /home/kits/task1_ws/build/four_wheel_bot_description/build install --record /home/kits/task1_ws/build/four_wheel_bot_description/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+source;share/four_wheel_bot_description/hook/pythonpath.ps1
+source;share/four_wheel_bot_description/hook/pythonpath.dsv
+source;share/four_wheel_bot_description/hook/pythonpath.sh
+source;share/four_wheel_bot_description/hook/ament_prefix_path.ps1
+source;share/four_wheel_bot_description/hook/ament_prefix_path.dsv
+source;share/four_wheel_bot_description/hook/ament_prefix_path.sh

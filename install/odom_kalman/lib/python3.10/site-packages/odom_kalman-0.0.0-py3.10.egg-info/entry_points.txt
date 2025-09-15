@@ -1,0 +1,5 @@
+[console_scripts]
+kalman_node = odom_kalman.kalman_node:main
+test_odometry = odom_kalman.test_odometry:main
+wheel_controller = odom_kalman.wheel_controller:main
+

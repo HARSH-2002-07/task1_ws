@@ -1,0 +1,21 @@
+[0.530s] Invoking command in '/home/kits/task1_ws/src/odom_kalman': PYTHONPATH=/home/kits/task1_ws/build/odom_kalman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odom_kalman build --build-base /home/kits/task1_ws/build/odom_kalman/build install --record /home/kits/task1_ws/build/odom_kalman/install.log --single-version-externally-managed install_data
+[0.670s] running egg_info
+[0.670s] writing ../../build/odom_kalman/odom_kalman.egg-info/PKG-INFO
+[0.671s] writing dependency_links to ../../build/odom_kalman/odom_kalman.egg-info/dependency_links.txt
+[0.671s] writing entry points to ../../build/odom_kalman/odom_kalman.egg-info/entry_points.txt
+[0.671s] writing requirements to ../../build/odom_kalman/odom_kalman.egg-info/requires.txt
+[0.671s] writing top-level names to ../../build/odom_kalman/odom_kalman.egg-info/top_level.txt
+[0.672s] reading manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+[0.672s] writing manifest file '../../build/odom_kalman/odom_kalman.egg-info/SOURCES.txt'
+[0.672s] running build
+[0.672s] running build_py
+[0.672s] running install
+[0.672s] running install_lib
+[0.673s] running install_data
+[0.673s] running install_egg_info
+[0.674s] removing '/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info' (and everything under it)
+[0.674s] Copying ../../build/odom_kalman/odom_kalman.egg-info to /home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages/odom_kalman-0.0.0-py3.10.egg-info
+[0.675s] running install_scripts
+[0.688s] Installing kalman_node script to /home/kits/task1_ws/install/odom_kalman/lib/odom_kalman
+[0.688s] writing list of installed files to '/home/kits/task1_ws/build/odom_kalman/install.log'
+[0.704s] Invoked command in '/home/kits/task1_ws/src/odom_kalman' returned '0': PYTHONPATH=/home/kits/task1_ws/build/odom_kalman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kits/task1_ws/install/odom_kalman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/odom_kalman build --build-base /home/kits/task1_ws/build/odom_kalman/build install --record /home/kits/task1_ws/build/odom_kalman/install.log --single-version-externally-managed install_data
