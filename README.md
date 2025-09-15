@@ -20,30 +20,35 @@ This project implements a real-time odometry system for a 4-wheel differential d
 ```
 
 ## 🚀 Quick Start
-
-### One-Command Launch (Recommended)
-
+In terminal 1
 ```bash
 # Build workspace
 cd ~/task1_ws
 colcon build
 source install/setup.bash
 
-# Launch everything (Gazebo + Kalman + Test)
-ros2 launch four_wheel_bot_gazebo four_wheel_odometry.launch.py
+ros2 launch four_wheel_bot_gazebo bringup.launch.py
 ```
 
-### Launch Options
-
+In terminal 2
 ```bash
-# Launch without Gazebo (lightweight)
-ros2 launch four_wheel_bot_gazebo four_wheel_odometry.launch.py use_gazebo:=false
+source install/setup.bash
 
-# Launch without automated test
-ros2 launch four_wheel_bot_gazebo four_wheel_odometry.launch.py run_test:=false
+ros2 run odom_kalman kalman_node
+```
 
-# Launch with custom parameters
-ros2 launch four_wheel_bot_gazebo four_wheel_odometry.launch.py use_gazebo:=true run_test:=true
+In terminal 3
+```bash
+source install/setup.bash
+
+ros2 run odom_kalman test_odometry
+```
+
+In terminal 4
+```bash
+source install/setup.bash
+
+ros2 run odom_kalman wheel_controller
 ```
 
 ## 🎯 Key Features
